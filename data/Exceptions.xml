@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <generics>
+    <app>USF</app>
+    <type>Permission</type>
+    <item>USF_Data_Import_Wizard.permissionset___ViewSetup</item>
+    <approvedBy>Abhinav Gadepalli</approvedBy>
+    <justification>Limited users would be permitted to data load using Import Wizard</justification>
+    <expiresYyyyMmDd>20251231</expiresYyyyMmDd>
+  </generics>
+</Package>
